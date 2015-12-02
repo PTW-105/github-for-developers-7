@@ -4,3 +4,4 @@
 **From:** Places
 **Food:** Food
 **Hobby:** Hobbies
+**Color:** Color
